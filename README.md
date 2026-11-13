@@ -1,3 +1,4 @@
+# Zhack7-tugas-docker-minggu9
 # Profil Docker - Muhammad Ngainurrozaq
 
 Halaman profil statis yang dikontainerisasi dengan Nginx (Alpine).
@@ -10,4 +11,4 @@ docker run -d --name profil-muhammadngainurrozaq -p 8082:80 profil-muhammadngain
 Buka http://localhost:8082
 
 ## Screenshot
-![Halaman profil](<img width="960" height="600" alt="image" src="https://github.com/user-attachments/assets/4a3ce840-1414-4b95-8158-8dd01946ecc9" /># Zhack7-tugas-docker-minggu9)
+![Halaman profil](<img width="960" height="600" alt="image" src="https://github.com/user-attachments/assets/4a3ce840-1414-4b95-8158-8dd01946ecc9" />)
