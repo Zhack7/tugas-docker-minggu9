@@ -10,5 +10,4 @@ docker run -d --name profil-muhammadngainurrozaq -p 8082:80 profil-muhammadngain
 Buka http://localhost:8082
 
 ## Screenshot
-![Halaman profil](<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/6379c4d9-8697-47d2-bf9c-55635ebc3ea4" />
-)
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/1437286e-0296-4775-841a-db322ca0a769" />
